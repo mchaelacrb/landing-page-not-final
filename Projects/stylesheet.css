@@ -1,0 +1,24 @@
+.intro {
+    font-size: 35px;
+    font-family: 'Inter';
+    text-align: justify;
+    
+    margin: 30% 20% 0% 40%;
+}
+
+.icons {
+margin-top: 5px;
+padding-left: 39%;
+justify-content: space-between;
+height : 25px;
+
+}
+
+.icons img {
+
+width : 25px;
+margin-top: 2px;
+margin-left : 10px;
+height: 25px;
+}
+
